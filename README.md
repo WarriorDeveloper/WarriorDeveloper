@@ -25,7 +25,6 @@ React JS | axios | redux |
 <hr/>
 <p align="center">
 Si te interesa contacteme: <br/>
-Instagram: https://www.instagram.com/sebrocp.2002/ <br/>
 Linkedin: https://www.linkedin.com/in/sebastián-jorge-rodrigo-godoy-a594471b7/ <br/>
 gmail: sebrocp.2002@gmail.com
 </p>
